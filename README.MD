@@ -1,4 +1,4 @@
-#Get your OAuth Credentials from Gmail api
+# Get your OAuth Credentials from Gmail api
 https://developers.google.com/workspace/guides/create-credentials
 
 Use Desktop client for the OAuth
