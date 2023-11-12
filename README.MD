@@ -1,7 +1,7 @@
 # Get your OAuth Credentials from Gmail api
 https://developers.google.com/workspace/guides/create-credentials
 
-Use Desktop client for the OAuth
+Use Desktop App for the OAuth and add all in scopes
 
 Place the credentials in the /resources folder as credentials.json
 
