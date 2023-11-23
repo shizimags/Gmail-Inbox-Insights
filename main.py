@@ -18,6 +18,7 @@ import base64
 email_categories = initializers.email_categories
 
 # Replace 'your_api_key' with your actual OpenAI API key
+# new changes
 openai.api_key = onepassword_api.fetchMetabaseCredentials("openAIAPi",'Hackathon')
 
 def main():
